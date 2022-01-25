@@ -1,3 +1,16 @@
 body{
     background: white;
 }
+.pname{
+    display: flex;
+}
+.text{
+    display: flex;
+}
+.imagebox{
+    display: flex;
+}
+.card{
+    width: 20%;
+    background-color: red;
+}
