@@ -14,3 +14,6 @@ body{
     width: 20%;
     background-color: red;
 }
+.img-keyboard, img{
+    float: right;
+}
