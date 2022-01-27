@@ -1,8 +1,9 @@
 body{
     background: white;
 }
-.pname{
+.card-title{
     display: flex;
+    color: lightblue;
 }
 .text{
     display: flex;
@@ -12,7 +13,8 @@ body{
 }
 .card{
     width: 20%;
-    background-color: red;
+    background-color: white;
+    border: none;
 }
 .img-keyboard, img{
     float: right;
