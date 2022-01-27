@@ -1,3 +1,19 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+.pname{
+    display: flex;
+}
+.text{
+    display: flex;
+}
+.imagebox{
+    display: flex;
+}
+.card{
+    width: 20%;
+    background-color: red;
+}
+.img-keyboard, img{
+    float: right;
 }
